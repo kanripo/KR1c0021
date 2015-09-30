@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩童子問
-#+DATE: 2015-09-23 09:36:39
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:04:59.499373
+#+PROPERTY: ID KR1c0021
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1c0021_WYG_000-1a>¶
 欽定四庫全書　　　　經部三¶
 　詩童子問　　　　　　詩𩔖¶
@@ -35,6 +37,7 @@
 　　　　校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總校官(臣/)陸費墀¶
+#+PROPERTY: JUAN 童子問卷首
 <pb:KR1c0021_WYG_000-3a>¶
 欽定四庫全書¶
 　童子問卷首　　　　　　宋　輔廣　撰¶
@@ -1313,4 +1316,3 @@
 　深遠這又係人才之高下有做得好底拙底¶
 　¶
 　童子問卷首¶
-

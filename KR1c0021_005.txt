@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩童子問
-#+DATE: 2015-09-23 09:36:39
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:04:59.622381
+#+PROPERTY: ID KR1c0021
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1c0021_WYG_005-1a>¶
 欽定四庫全書卷¶
 　童子問卷五　　　　　　宋　輔廣　撰¶
@@ -560,4 +562,3 @@
 　¶
 　¶
 　童子問卷五¶
-

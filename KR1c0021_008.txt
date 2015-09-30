@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩童子問
-#+DATE: 2015-09-23 09:36:39
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:04:59.690504
+#+PROPERTY: ID KR1c0021
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1c0021_WYG_008-1a>¶
 欽定四庫全書¶
 　童子問卷八　　　　　　　宋　輔廣　撰¶
@@ -398,4 +400,3 @@
 　(規模之宏此高宗之神之所安也言其有以當之矣/其與閟宮之卒章文義畧同者葢俱為宗廟始成而)¶
 　(祭之詩豈作閟宮者/亦取法於是詩乎)¶
 　童子問卷八¶
-
